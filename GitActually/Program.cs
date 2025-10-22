@@ -6,6 +6,11 @@ class Program
     {
         Console.WriteLine("Hello White");
     }
+
+    static void GreetBlack()
+    {
+        Console.WriteLine("Hello Black");
+    }
     
     static void Main()
     {
